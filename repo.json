@@ -1,0 +1,15 @@
+[{
+  "Name": "mtp",
+  "Description": "Mimics texpad theme for micro editor",
+  "Tags": ["textpad", "color", "theme"],
+  "Website": "https://github.com/helio-frota/micro-textpad-similar-theme/",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "Url": "https://github.com/helio-frota/micro-textpad-similar-theme/archive/v0.0.1.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]

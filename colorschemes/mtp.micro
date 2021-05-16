@@ -21,12 +21,11 @@ color-link selection "#FEFEFE,#0000FF"
 color-link color-column "#D2D2D2"
 color-link underlined "#FF0000,#FEFEFE"
 color-link error "bold #FF0000,#FEFEFE"
-color-link special "#000000,#FEFEFE"
+color-link special "bold #000080,#FEFEFE"
 
 # TODO
 # color-link gutter-error "#FEFEFE,#FEFEFE"
 # color-link gutter-warning "#FEFEFE,#FEFEFE"
-# color-link symbol.tag "#FEFEFE,#FEFEFE"
 # color-link diff-added "#FEFEFE"
 # color-link diff-modified "#FEFEFE"
 # color-link diff-deleted "#FEFEFE"
